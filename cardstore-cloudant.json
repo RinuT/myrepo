@@ -1,0 +1,15 @@
+{
+  "composer": {
+    "wallet": {
+      "type": "@ampretia/composer-wallet-cloudant",
+      "options": {
+        "database": "composer-wallet-pharma",
+		"username": "ab299956-4a23-4363-adae-aa1f4bf9537a-bluemix",
+		"password": "7380f6857189d6956f6ed03eb1a6a95a6070d34cfec5e9bf542635682f12db5f",
+		"host": "ab299956-4a23-4363-adae-aa1f4bf9537a-bluemix.cloudant.com",
+		"port": 443,
+		"url": "https://ab299956-4a23-4363-adae-aa1f4bf9537a-bluemix:7380f6857189d6956f6ed03eb1a6a95a6070d34cfec5e9bf542635682f12db5f@ab299956-4a23-4363-adae-aa1f4bf9537a-bluemix.cloudant.com"
+      }
+    }
+  }
+}
